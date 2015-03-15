@@ -1,0 +1,7 @@
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\bin\Debug\IUT.Bamboue.Outils.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\bin\Debug\IUT.Bamboue.Outils.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\obj\Debug\IUT.Bamboue.Data.csprojResolveAssemblyReference.cache
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

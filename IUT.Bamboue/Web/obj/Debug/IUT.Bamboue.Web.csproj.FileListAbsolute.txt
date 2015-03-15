@@ -1,0 +1,10 @@
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\Web.dll.config
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\Web.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\Web.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\IUT.Bamboue.Domaine.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\IUT.Bamboue.Services.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\IUT.Bamboue.Domaine.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\bin\IUT.Bamboue.Services.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\obj\Debug\IUT.Bamboue.Web.csprojResolveAssemblyReference.cache
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\obj\Debug\Web.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\Web\obj\Debug\Web.pdb

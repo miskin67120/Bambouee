@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Web.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Bamboue</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body style="height: 323px">
+    <div id="banniere">
+        <img src="http://www.bas-rhin.fr/images/logo_cg67.png"
+            alt="Logo"
+            title="Conseil Départemental">
+        <style type="text/css">
+            div#banniere {
+            color: purple;
+            background-color: rgb(226,19,123) }
+        </style>
+    </div>
+
+
+
+
+    <form id="form1" runat="server">
+        <div style="width: 802px; height: 52px">
+            <asp:Button ID="btnAccueil" runat="server" Text="Accueil" />
+        </div>
+    <div style="height: 190px; width: 794px; margin-left: 6px">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

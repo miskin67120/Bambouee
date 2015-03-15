@@ -1,0 +1,11 @@
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Services.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Services.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\ClassLibrary1.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Domaine.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Outils.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\ClassLibrary1.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Domaine.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\bin\Debug\IUT.Bamboue.Outils.pdb
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\obj\Debug\IUT.Bamboue.Services.csprojResolveAssemblyReference.cache
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\obj\Debug\IUT.Bamboue.Services.dll
+C:\Users\Quentin\Documents\GitHub\Bamboue\IUT.Bamboue\IUT.Bamboue.Services\obj\Debug\IUT.Bamboue.Services.pdb
